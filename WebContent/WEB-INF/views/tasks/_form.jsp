@@ -10,8 +10,6 @@
 
     </div>
 </c:if>
-<label for="title">タイトル</label>
-
 <label for="content">タスク</label><br />
 <input type="text" name="content" value="${task.content}" />
 <br /><br />
